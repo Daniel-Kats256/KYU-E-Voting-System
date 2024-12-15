@@ -42,7 +42,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `firstname`, `lastname`, `photo`, `created_on`) VALUES
-(1, 'rovic', '$2y$10$0Q5N9aBUl6ggW9GxHtPQ7uyW81Oa0Bid05LLgX947WwXFWs5/e9pK', 'Rovic', 'Balingbing', '623aa8f9933ee9a286871bf6e0782538.jpg', '2023-06-25');
+(1, 'daniel', '$2y$10$E9kxwG.kKhNJeWhNVof2IOu8HjxSMlHHsMXaRuzPqZWTmCPmZoHjK', 'Daniel', 'Kats', 'dan.jpg', '2024-09-25');
 
 -- --------------------------------------------------------
 

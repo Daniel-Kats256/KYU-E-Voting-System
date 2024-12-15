@@ -15,7 +15,7 @@
 <body class="hold-transition login-page">
     <div class="login-box">
         <div class="login-logo">
-            <b>e-Vox Voting System</b>
+            <b>KYU E-Voting System</b>
         </div>
     
         <div class="login-box-body">

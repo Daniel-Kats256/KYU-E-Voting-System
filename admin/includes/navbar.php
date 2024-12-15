@@ -1,7 +1,7 @@
 <header class="main-header">
   <a href="#" class="logo">
-    <span class="logo-mini"><b>e</b>Vox</span>
-    <span class="logo-lg"><b>E-Vox</b> Voting</span>
+    <span class="logo-mini"><b>E</b>Voting</span>
+    <span class="logo-lg"><b>KYU</b> E-Voting</span>
   </a>
   <nav class="navbar navbar-static-top">
     <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">

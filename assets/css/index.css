@@ -45,7 +45,7 @@
     width: 100%;
     color: #000;
     z-index: 100;
-    background-color: var(--color-primary);
+    background-color: var(--color-blue);
 }
 
 .navbar-container{
